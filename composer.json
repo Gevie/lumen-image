@@ -1,8 +1,8 @@
 {
-    "name": "ktquez/lumen-image",
+    "name": "jpeer/lumen-image",
     "description": "Image manipulation library Lumen Framework based on Imagine and inspired by Croppa for easy url based manipulation",
     "keywords": ["lumen","image","imagick","gd","imagine","watermark","gmagick","thumbnail"],
-    "homepage": "https://github.com/ktquez/lumen-image",
+    "homepage": "https://github.com/jpeer/lumen-image",
     "license": "MIT",
     "authors": [
         {
