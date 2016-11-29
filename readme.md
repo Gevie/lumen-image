@@ -77,7 +77,7 @@ This package also provides some common filters ready to use ([more on this](http
 #### Installation:
 
 ```
-composer require ktquez/lumen-image
+composer require jpeer/lumen-image
 ```
 
 ##### configuration:
